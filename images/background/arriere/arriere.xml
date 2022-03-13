@@ -1,0 +1,415 @@
+<project>
+  <size>
+    <width>1000</width>
+    <height>550</height>
+    <donotcrop>False</donotcrop>
+    <donotstretch>True</donotstretch>
+    <donotcropthumbnail>False</donotcropthumbnail>
+    <transparent>False</transparent>
+    <imagefillcolor>FFFFFF</imagefillcolor>
+  </size>
+  <slidelist>
+    <slide>
+      <type>0</type>
+      <originalimage>C:\xampp\htdocs\tekup\E-commerce\images\background\redacteur-blog-img-une-e-learning.jpg</originalimage>
+      <image>arriere.xml_files\redacteur-blog-img-une-e-learning.jpg</image>
+      <size>236022</size>
+      <date>2022-03-13 15-25-36</date>
+      <title />
+      <description />
+      <button />
+      <buttonstyle>as-btn-blue-medium</buttonstyle>
+      <buttonlink />
+      <buttonlinktarget />
+      <link />
+      <target />
+      <videolist />
+      <openinlightbox>False</openinlightbox>
+      <setlightboxsize>False</setlightboxsize>
+      <lightboxwidth>960</lightboxwidth>
+      <lightboxheight>720</lightboxheight>
+      <currentinlightbox>False</currentinlightbox>
+      <settexteffect>False</settexteffect>
+      <texteffect />
+      <setduration>False</setduration>
+      <duration>5000</duration>
+    </slide>
+    <slide>
+      <type>0</type>
+      <originalimage>C:\xampp\htdocs\tekup\E-commerce\images\background\shutterstock_Kate Kultsevych_sito.jpg</originalimage>
+      <image>arriere.xml_files\shutterstock_Kate%20Kultsevych_sito.jpg</image>
+      <size>387772</size>
+      <date>2022-03-13 15-57-39</date>
+      <title />
+      <description />
+      <button />
+      <buttonstyle>as-btn-blue-medium</buttonstyle>
+      <buttonlink />
+      <buttonlinktarget />
+      <link />
+      <target />
+      <videolist />
+      <openinlightbox>False</openinlightbox>
+      <setlightboxsize>False</setlightboxsize>
+      <lightboxwidth>960</lightboxwidth>
+      <lightboxheight>720</lightboxheight>
+      <currentinlightbox>False</currentinlightbox>
+      <settexteffect>False</settexteffect>
+      <texteffect />
+      <setduration>False</setduration>
+      <duration>5000</duration>
+    </slide>
+    <slide>
+      <type>0</type>
+      <originalimage>C:\xampp\htdocs\tekup\E-commerce\images\background\elearning.jpg</originalimage>
+      <image>arriere.xml_files\elearning.jpg</image>
+      <size>50366</size>
+      <date>2022-03-13 15-57-21</date>
+      <title />
+      <description />
+      <button />
+      <buttonstyle>as-btn-blue-medium</buttonstyle>
+      <buttonlink />
+      <buttonlinktarget />
+      <link />
+      <target />
+      <videolist />
+      <openinlightbox>False</openinlightbox>
+      <setlightboxsize>False</setlightboxsize>
+      <lightboxwidth>960</lightboxwidth>
+      <lightboxheight>720</lightboxheight>
+      <currentinlightbox>False</currentinlightbox>
+      <settexteffect>False</settexteffect>
+      <texteffect />
+      <setduration>False</setduration>
+      <duration>5000</duration>
+    </slide>
+  </slidelist>
+  <transitions>
+    <fade>
+      <duration>1000</duration>
+      <easing>easeOutCubic</easing>
+      <checked>False</checked>
+    </fade>
+    <crossfade>
+      <duration>1000</duration>
+      <easing>easeOutCubic</easing>
+      <checked>False</checked>
+    </crossfade>
+    <slide>
+      <duration>1000</duration>
+      <easing>easeOutCubic</easing>
+      <checked>False</checked>
+      <effectdirection>0</effectdirection>
+    </slide>
+    <cssslide>
+      <duration>1000</duration>
+      <easing>ease</easing>
+      <checked>True</checked>
+      <effectdirection>0</effectdirection>
+    </cssslide>
+    <elastic>
+      <duration>1000</duration>
+      <easing>easeOutElastic</easing>
+      <checked>False</checked>
+      <effectdirection>0</effectdirection>
+    </elastic>
+    <tiles>
+      <duration>2000</duration>
+      <checked>False</checked>
+    </tiles>
+    <kenburns>
+      <duration>5000</duration>
+      <checked>False</checked>
+    </kenburns>
+    <flip>
+      <duration>1500</duration>
+      <checked>False</checked>
+    </flip>
+    <flipwithzoom>
+      <duration>2000</duration>
+      <checked>False</checked>
+    </flipwithzoom>
+    <threedwithzoom>
+      <duration>2500</duration>
+      <fallback>flip</fallback>
+      <checked>False</checked>
+    </threedwithzoom>
+    <threedhorizontalwithzoom>
+      <duration>2200</duration>
+      <fallback>flipwithzoom</fallback>
+      <checked>False</checked>
+    </threedhorizontalwithzoom>
+    <threedflip>
+      <duration>1500</duration>
+      <fallback>flip</fallback>
+      <checked>False</checked>
+    </threedflip>
+    <threedflipwithzoom>
+      <duration>2000</duration>
+      <fallback>flipwithzoom</fallback>
+      <checked>False</checked>
+    </threedflipwithzoom>
+    <threedtiles>
+      <duration>2000</duration>
+      <fallback>tiles</fallback>
+      <checked>False</checked>
+    </threedtiles>
+    <slice>
+      <checked>False</checked>
+      <effectdirection>0</effectdirection>
+      <effects>up,down,updown</effects>
+      <slicecount>10</slicecount>
+      <duration>1500</duration>
+      <easing>easeOutCubic</easing>
+    </slice>
+    <blinds>
+      <duration>2000</duration>
+      <easing>easeOutCubic</easing>
+      <checked>False</checked>
+      <effectdirection>0</effectdirection>
+      <slicecount>3</slicecount>
+    </blinds>
+    <threed>
+      <checked>False</checked>
+      <effectdirection>0</effectdirection>
+      <bgcolor>#222222</bgcolor>
+      <perspective>1000</perspective>
+      <slicecount>5</slicecount>
+      <duration>1500</duration>
+      <easing>easeOutCubic</easing>
+      <fallback>slice</fallback>
+      <scatter>5</scatter>
+      <perspectiveorigin>right</perspectiveorigin>
+    </threed>
+    <threedhorizontal>
+      <checked>False</checked>
+      <effectdirection>0</effectdirection>
+      <bgcolor>#222222</bgcolor>
+      <perspective>1000</perspective>
+      <slicecount>1</slicecount>
+      <duration>1500</duration>
+      <easing>easeOutCubic</easing>
+      <fallback>slice</fallback>
+      <scatter>5</scatter>
+      <perspectiveorigin>bottom</perspectiveorigin>
+    </threedhorizontal>
+    <blocks>
+      <columncount>5</columncount>
+      <checked>False</checked>
+      <rowcount>5</rowcount>
+      <effects>topleft,bottomright,top,bottom,random</effects>
+      <duration>1500</duration>
+      <easing>easeOutCubic</easing>
+    </blocks>
+    <shuffle>
+      <duration>1500</duration>
+      <easing>easeOutCubic</easing>
+      <columncount>5</columncount>
+      <checked>False</checked>
+      <rowcount>5</rowcount>
+    </shuffle>
+  </transitions>
+  <slider>
+    <loadimageondemand>False</loadimageondemand>
+    <videohidecontrols>False</videohidecontrols>
+    <fullwidth>False</fullwidth>
+    <playmutedandinlinewhenautoplay>False</playmutedandinlinewhenautoplay>
+    <donotresize>False</donotresize>
+    <enabletouchswipe>True</enabletouchswipe>
+    <fullscreen>False</fullscreen>
+    <autoplayvideo>False</autoplayvideo>
+    <addmargin>True</addmargin>
+    <transitiononfirstslide>False</transitiononfirstslide>
+    <forceflash>False</forceflash>
+    <isresponsive>True</isresponsive>
+    <forceflashonie11>True</forceflashonie11>
+    <forceflashonie10>True</forceflashonie10>
+    <pauseonmouseover>False</pauseonmouseover>
+    <playvideoonclickthumb>True</playvideoonclickthumb>
+    <slideinterval>5000</slideinterval>
+    <randomplay>False</randomplay>
+    <scalemode>fill</scalemode>
+    <loop>0</loop>
+    <autoplay>True</autoplay>
+  </slider>
+  <skin>
+    <navplayvideoimage>play-32-32-0.png</navplayvideoimage>
+    <navpreviewheight>60</navpreviewheight>
+    <timerheight>2</timerheight>
+    <descriptioncssresponsive>font-size:12px;</descriptioncssresponsive>
+    <shownumbering>False</shownumbering>
+    <navthumbresponsivemode>samesize</navthumbresponsivemode>
+    <skin>ContentBox</skin>
+    <textautohide>True</textautohide>
+    <lightboxshowtwitter>True</lightboxshowtwitter>
+    <addgooglefonts>False</addgooglefonts>
+    <navshowplaypause>True</navshowplaypause>
+    <initsocial>False</initsocial>
+    <navshowplayvideo>True</navshowplayvideo>
+    <navshowplaypausestandalonemarginx>8</navshowplaypausestandalonemarginx>
+    <navshowplaypausestandalonemarginy>8</navshowplaypausestandalonemarginy>
+    <navbuttonradius>0</navbuttonradius>
+    <navthumbcolumn>5</navthumbcolumn>
+    <navthumbnavigationarrowimageheight>32</navthumbnavigationarrowimageheight>
+    <navradius>0</navradius>
+    <navthumbsmallcolumn>3</navthumbsmallcolumn>
+    <lightboxshownavigation>False</lightboxshownavigation>
+    <showshadow>False</showshadow>
+    <navfeaturedarrowimagewidth>16</navfeaturedarrowimagewidth>
+    <lightboxshowsocial>False</lightboxshowsocial>
+    <navpreviewwidth>120</navpreviewwidth>
+    <googlefonts />
+    <navborderhighlightcolor />
+    <navcolor>#999999</navcolor>
+    <lightboxdescriptionbottomcss>{color:#333; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;}</lightboxdescriptionbottomcss>
+    <lightboxthumbwidth>80</lightboxthumbwidth>
+    <navthumbnavigationarrowimagewidth>32</navthumbnavigationarrowimagewidth>
+    <navthumbtitlehovercss>text-decoration:underline;</navthumbtitlehovercss>
+    <navthumbmediumheight>64</navthumbmediumheight>
+    <texteffectresponsivesize>600</texteffectresponsivesize>
+    <arrowwidth>32</arrowwidth>
+    <texteffecteasing>easeOutCubic</texteffecteasing>
+    <texteffect>slide</texteffect>
+    <lightboxthumbheight>60</lightboxthumbheight>
+    <navspacing>8</navspacing>
+    <navarrowimage>navarrows-28-28-0.png</navarrowimage>
+    <ribbonimage>ribbon_topleft-0.png</ribbonimage>
+    <navwidth>16</navwidth>
+    <navheight>16</navheight>
+    <arrowimage>arrows-32-32-0.png</arrowimage>
+    <timeropacity>0.6</timeropacity>
+    <titlecssresponsive>font-size:12px;</titlecssresponsive>
+    <navthumbnavigationarrowimage>carouselarrows-32-32-0.png</navthumbnavigationarrowimage>
+    <navshowplaypausestandalone>False</navshowplaypausestandalone>
+    <texteffect1>slide</texteffect1>
+    <navpreviewbordercolor>#ffffff</navpreviewbordercolor>
+    <texteffect2>slide</texteffect2>
+    <customcss />
+    <ribbonposition>topleft</ribbonposition>
+    <navthumbdescriptioncss>display:block;position:relative;padding:2px 4px;text-align:left;font:normal 12px Arial,Helvetica,sans-serif;color:#333;</navthumbdescriptioncss>
+    <lightboxtitlebottomcss>{color:#333; font-size:14px; font-family:Armata,sans-serif,Arial; overflow:hidden; text-align:left;}</lightboxtitlebottomcss>
+    <arrowstyle>mouseover</arrowstyle>
+    <navthumbmediumsize>800</navthumbmediumsize>
+    <navthumbtitleheight>20</navthumbtitleheight>
+    <navpreviewarrowheight>8</navpreviewarrowheight>
+    <textpositionmargintop>24</textpositionmargintop>
+    <navshowbuttons>False</navshowbuttons>
+    <buttoncssresponsive />
+    <texteffectdelay>500</texteffectdelay>
+    <navswitchonmouseover>False</navswitchonmouseover>
+    <playvideoimage>playvideo-64-64-0.png</playvideoimage>
+    <arrowtop>50</arrowtop>
+    <textstyle>dynamic</textstyle>
+    <playvideoimageheight>64</playvideoimageheight>
+    <navfonthighlightcolor>#666666</navfonthighlightcolor>
+    <showbackgroundimage>False</showbackgroundimage>
+    <showpinterest>True</showpinterest>
+    <navpreviewborder>4</navpreviewborder>
+    <navshowplaypausestandaloneheight>28</navshowplaypausestandaloneheight>
+    <navdirection>horizontal</navdirection>
+    <navbuttonshowbgimage>True</navbuttonshowbgimage>
+    <navbuttonbgimage>navbuttonbgimage-28-28-0.png</navbuttonbgimage>
+    <textbgcss>display:none;</textbgcss>
+    <playvideoimagewidth>64</playvideoimagewidth>
+    <buttoncss>display:block; position:relative; margin:10px auto;</buttoncss>
+    <navborder>4</navborder>
+    <navshowpreviewontouch>False</navshowpreviewontouch>
+    <bottomshadowimagewidth>96</bottomshadowimagewidth>
+    <showtimer>True</showtimer>
+    <navmultirows>False</navmultirows>
+    <navshowpreview>False</navshowpreview>
+    <navmarginy>16</navmarginy>
+    <navmarginx>16</navmarginx>
+    <navfeaturedarrowimage>featuredarrow-16-8-0.png</navfeaturedarrowimage>
+    <texteffectslidedirection1>right</texteffectslidedirection1>
+    <showribbon>False</showribbon>
+    <navstyle>bullets</navstyle>
+    <textpositionmarginleft>24</textpositionmarginleft>
+    <descriptioncss>display:block; position:relative; font-weight:300; font-style:normal; font-size:20px; line-height:30px; font-family:Georgia,sans-serif,Arial; color:#fff; padding:10px; margin:0px auto;</descriptioncss>
+    <navplaypauseimage>navplaypause-28-28-0.png</navplaypauseimage>
+    <backgroundimagetop>-10</backgroundimagetop>
+    <timercolor>#ffffff</timercolor>
+    <numberingformat>%NUM/%TOTAL </numberingformat>
+    <navthumbmediumwidth>64</navthumbmediumwidth>
+    <navfontsize>12</navfontsize>
+    <navhighlightcolor>#333333</navhighlightcolor>
+    <texteffectdelay1>1000</texteffectdelay1>
+    <navimage>bullet-16-16-0.png</navimage>
+    <texteffectdelay2>1500</texteffectdelay2>
+    <texteffectduration1>600</texteffectduration1>
+    <navshowplaypausestandaloneautohide>False</navshowplaypausestandaloneautohide>
+    <texteffectduration2>600</texteffectduration2>
+    <navbuttoncolor>#999999</navbuttoncolor>
+    <navshowarrow>True</navshowarrow>
+    <texteffectslidedirection>left</texteffectslidedirection>
+    <navshowfeaturedarrow>False</navshowfeaturedarrow>
+    <lightboxbarheight>64</lightboxbarheight>
+    <showfacebook>True</showfacebook>
+    <titlecss>display:table; position:relative; font-weight:300; font-style:italic; font-size:20px; font-family:Georgia,sans-serif,Arial; color:#fff; background-color:#00ccff; padding:10px; margin:0px auto;</titlecss>
+    <ribbonimagey>0</ribbonimagey>
+    <ribbonimagex>0</ribbonimagex>
+    <texteffectresponsive>True</texteffectresponsive>
+    <navthumbsmallheight>48</navthumbsmallheight>
+    <texteffectslidedistance1>60</texteffectslidedistance1>
+    <texteffectslidedistance2>60</texteffectslidedistance2>
+    <navrowspacing>8</navrowspacing>
+    <navshowplaypausestandaloneposition>bottomright</navshowplaypausestandaloneposition>
+    <lightboxshowpinterest>True</lightboxshowpinterest>
+    <lightboxthumbbottommargin>8</lightboxthumbbottommargin>
+    <lightboxthumbtopmargin>12</lightboxthumbtopmargin>
+    <arrowhideonmouseleave>1000</arrowhideonmouseleave>
+    <navshowplaypausestandalonewidth>28</navshowplaypausestandalonewidth>
+    <showsocial>False</showsocial>
+    <navthumbresponsive>False</navthumbresponsive>
+    <navfeaturedarrowimageheight>8</navfeaturedarrowimageheight>
+    <navopacity>0.8</navopacity>
+    <textpositionmarginright>24</textpositionmarginright>
+    <backgroundimagewidth>120</backgroundimagewidth>
+    <bordercolor>#ffffff</bordercolor>
+    <border>0</border>
+    <navthumbtitlewidth>120</navthumbtitlewidth>
+    <navpreviewposition>top</navpreviewposition>
+    <texteffectseparate>True</texteffectseparate>
+    <arrowheight>32</arrowheight>
+    <arrowmargin>0</arrowmargin>
+    <texteffectduration>600</texteffectduration>
+    <bottomshadowimage>bottomshadow-110-95-1.png</bottomshadowimage>
+    <advancedoptions />
+    <lightboxshowfacebook>True</lightboxshowfacebook>
+    <lightboxshowdescription>False</lightboxshowdescription>
+    <timerposition>bottom</timerposition>
+    <navfontcolor>#333333</navfontcolor>
+    <navthumbnavigationstyle>arrow</navthumbnavigationstyle>
+    <borderradius>0</borderradius>
+    <navbuttonhighlightcolor>#333333</navbuttonhighlightcolor>
+    <textpositionstatic>bottom</textpositionstatic>
+    <texteffecteasing2>easeOutCubic</texteffecteasing2>
+    <navthumbstyle>imageonly</navthumbstyle>
+    <texteffecteasing1>easeOutCubic</texteffecteasing1>
+    <textcss>display:block; padding:8px 16px; text-align:center;</textcss>
+    <navthumbsmallwidth>48</navthumbsmallwidth>
+    <navbordercolor>#ffffff</navbordercolor>
+    <navthumbmediumcolumn>4</navthumbmediumcolumn>
+    <navpreviewarrowimage>previewarrow-16-8-0.png</navpreviewarrowimage>
+    <showbottomshadow>True</showbottomshadow>
+    <texteffectslidedistance>30</texteffectslidedistance>
+    <shadowcolor>#aaaaaa</shadowcolor>
+    <showtwitter>True</showtwitter>
+    <textpositionmarginstatic>0</textpositionmarginstatic>
+    <backgroundimage />
+    <navposition>bottom</navposition>
+    <navthumbsmallsize>480</navthumbsmallsize>
+    <navpreviewarrowwidth>16</navpreviewarrowwidth>
+    <textformat>Center box</textformat>
+    <texteffectslidedirection2>right</texteffectslidedirection2>
+    <bottomshadowimagetop>96</bottomshadowimagetop>
+    <textpositiondynamic>centercenter</textpositiondynamic>
+    <shadowsize>5</shadowsize>
+    <navthumbtitlecss>display:block;position:relative;padding:2px 4px;text-align:left;font:bold 14px Arial,Helvetica,sans-serif;color:#333;</navthumbtitlecss>
+    <textpositionmarginbottom>24</textpositionmarginbottom>
+    <lightboxshowtitle>True</lightboxshowtitle>
+    <socialmode>mouseover</socialmode>
+  </skin>
+  <publish />
+</project>

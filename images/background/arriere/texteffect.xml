@@ -1,0 +1,819 @@
+<configure>
+  <texteffect>
+    <textformat>Bottom bar</textformat>
+    <titlecssresponsive>font-size:12px;</titlecssresponsive>
+    <descriptioncss>display:block; position:relative; font:12px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#fff; margin-top:8px;</descriptioncss>
+    <texteffect1>slide</texteffect1>
+    <texteffect2>slide</texteffect2>
+    <descriptioncssresponsive>font-size:12px;</descriptioncssresponsive>
+    <texteffectseparate>False</texteffectseparate>
+    <texteffectduration>600</texteffectduration>
+    <textpositionmarginleft>24</textpositionmarginleft>
+    <textpositionstatic>bottom</textpositionstatic>
+    <buttoncssresponsive />
+    <buttoncss>display:block; position:relative; margin-top:8px;</buttoncss>
+    <addgooglefonts>False</addgooglefonts>
+    <textpositionmargintop>24</textpositionmargintop>
+    <texteffecteasing2>easeOutCubic</texteffecteasing2>
+    <texteffectdelay>500</texteffectdelay>
+    <texteffecteasing1>easeOutCubic</texteffecteasing1>
+    <texteffectdelay1>1000</texteffectdelay1>
+    <texteffectdelay2>1500</texteffectdelay2>
+    <texteffectduration1>600</texteffectduration1>
+    <googlefonts />
+    <textpositionmarginright>24</textpositionmarginright>
+    <textautohide>True</textautohide>
+    <textstyle>static</textstyle>
+    <texteffectslidedistance>30</texteffectslidedistance>
+    <texteffectslidedirection>left</texteffectslidedirection>
+    <textcss>display:block; padding:12px; text-align:left;</textcss>
+    <titlecss>display:block; position:relative; font:bold 14px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#fff;</titlecss>
+    <textpositionmarginstatic>0</textpositionmarginstatic>
+    <texteffectresponsivesize>600</texteffectresponsivesize>
+    <texteffectslidedirection1>right</texteffectslidedirection1>
+    <texteffectslidedistance1>120</texteffectslidedistance1>
+    <texteffectslidedistance2>120</texteffectslidedistance2>
+    <texteffectslidedirection2>right</texteffectslidedirection2>
+    <textbgcss>display:block; position:absolute; top:0px; left:0px; width:100%; height:100%; background-color:#333333; opacity:0.6; filter:alpha(opacity=60);</textbgcss>
+    <texteffectresponsive>True</texteffectresponsive>
+    <texteffecteasing>easeOutCubic</texteffecteasing>
+    <textpositiondynamic>bottomleft</textpositiondynamic>
+    <textpositionmarginbottom>24</textpositionmarginbottom>
+    <texteffect>slide</texteffect>
+    <texteffectduration2>600</texteffectduration2>
+  </texteffect>
+  <texteffect>
+    <textformat>Bottom left</textformat>
+    <titlecssresponsive>font-size:12px;</titlecssresponsive>
+    <descriptioncss>display:block; position:relative; font:12px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#fff; margin-top:8px;</descriptioncss>
+    <texteffect1>slide</texteffect1>
+    <texteffect2>slide</texteffect2>
+    <descriptioncssresponsive>font-size:12px;</descriptioncssresponsive>
+    <texteffectseparate>False</texteffectseparate>
+    <texteffectduration>600</texteffectduration>
+    <textpositionmarginleft>24</textpositionmarginleft>
+    <textpositionstatic>bottom</textpositionstatic>
+    <buttoncssresponsive />
+    <buttoncss>display:block; position:relative; margin-top:8px;</buttoncss>
+    <addgooglefonts>False</addgooglefonts>
+    <textpositionmargintop>24</textpositionmargintop>
+    <texteffecteasing2>easeOutCubic</texteffecteasing2>
+    <texteffectdelay>500</texteffectdelay>
+    <texteffecteasing1>easeOutCubic</texteffecteasing1>
+    <texteffectdelay1>1000</texteffectdelay1>
+    <texteffectdelay2>1500</texteffectdelay2>
+    <texteffectduration1>600</texteffectduration1>
+    <googlefonts />
+    <textpositionmarginright>24</textpositionmarginright>
+    <textautohide>True</textautohide>
+    <textstyle>static</textstyle>
+    <texteffectslidedistance>30</texteffectslidedistance>
+    <texteffectslidedirection>left</texteffectslidedirection>
+    <textcss>display:block; padding:12px; text-align:left;</textcss>
+    <titlecss>display:block; position:relative; font:bold 14px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#fff;</titlecss>
+    <textpositionmarginstatic>0</textpositionmarginstatic>
+    <texteffectresponsivesize>600</texteffectresponsivesize>
+    <texteffectslidedirection1>right</texteffectslidedirection1>
+    <texteffectslidedistance1>120</texteffectslidedistance1>
+    <texteffectslidedistance2>120</texteffectslidedistance2>
+    <texteffectslidedirection2>right</texteffectslidedirection2>
+    <textbgcss>display:none;</textbgcss>
+    <texteffectresponsive>True</texteffectresponsive>
+    <texteffecteasing>easeOutCubic</texteffecteasing>
+    <textpositiondynamic>bottomleft</textpositiondynamic>
+    <textpositionmarginbottom>24</textpositionmarginbottom>
+    <texteffect>slide</texteffect>
+    <texteffectduration2>600</texteffectduration2>
+  </texteffect>
+  <texteffect>
+    <textformat>Center text</textformat>
+    <titlecssresponsive>font-size:12px;</titlecssresponsive>
+    <descriptioncss>display:block; position:relative; font-weight:300; font-style:normal; font-size:20px; line-height:30px; font-family:Georgia,sans-serif,Arial; color:#fff; padding:10px; margin:0px auto;</descriptioncss>
+    <texteffect1>slide</texteffect1>
+    <texteffect2>slide</texteffect2>
+    <descriptioncssresponsive>font-size:12px;</descriptioncssresponsive>
+    <texteffectseparate>True</texteffectseparate>
+    <texteffectduration>600</texteffectduration>
+    <textpositionmarginleft>24</textpositionmarginleft>
+    <textpositionstatic>bottom</textpositionstatic>
+    <buttoncssresponsive />
+    <buttoncss>display:block; position:relative; margin:10px auto;</buttoncss>
+    <addgooglefonts>False</addgooglefonts>
+    <textpositionmargintop>24</textpositionmargintop>
+    <texteffecteasing2>easeOutCubic</texteffecteasing2>
+    <texteffectdelay>500</texteffectdelay>
+    <texteffecteasing1>easeOutCubic</texteffecteasing1>
+    <texteffectdelay1>1000</texteffectdelay1>
+    <texteffectdelay2>1500</texteffectdelay2>
+    <texteffectduration1>600</texteffectduration1>
+    <googlefonts />
+    <textpositionmarginright>24</textpositionmarginright>
+    <textautohide>True</textautohide>
+    <textstyle>dynamic</textstyle>
+    <texteffectslidedistance>30</texteffectslidedistance>
+    <texteffectslidedirection>left</texteffectslidedirection>
+    <textcss>display:block; padding:48px; text-align:center;</textcss>
+    <titlecss>display:table; position:relative; font-weight:300; font-style:italic; font-size:32px; font-family:Georgia,sans-serif,Arial; color:#fff; padding:10px; margin:0px auto;</titlecss>
+    <textpositionmarginstatic>0</textpositionmarginstatic>
+    <texteffectresponsivesize>600</texteffectresponsivesize>
+    <texteffectslidedirection1>right</texteffectslidedirection1>
+    <texteffectslidedistance1>60</texteffectslidedistance1>
+    <texteffectslidedistance2>60</texteffectslidedistance2>
+    <texteffectslidedirection2>right</texteffectslidedirection2>
+    <textbgcss>display:none;</textbgcss>
+    <texteffectresponsive>True</texteffectresponsive>
+    <texteffecteasing>easeOutCubic</texteffecteasing>
+    <textpositiondynamic>centercenter</textpositiondynamic>
+    <textpositionmarginbottom>24</textpositionmarginbottom>
+    <texteffect>slide</texteffect>
+    <texteffectduration2>600</texteffectduration2>
+  </texteffect>
+  <texteffect>
+    <textformat>Center box</textformat>
+    <titlecssresponsive>font-size:12px;</titlecssresponsive>
+    <descriptioncss>display:block; position:relative; font-weight:300; font-style:normal; font-size:20px; line-height:30px; font-family:Georgia,sans-serif,Arial; color:#fff; padding:10px; margin:0px auto;</descriptioncss>
+    <texteffect1>slide</texteffect1>
+    <texteffect2>slide</texteffect2>
+    <descriptioncssresponsive>font-size:12px;</descriptioncssresponsive>
+    <texteffectseparate>True</texteffectseparate>
+    <texteffectduration>600</texteffectduration>
+    <textpositionmarginleft>24</textpositionmarginleft>
+    <textpositionstatic>bottom</textpositionstatic>
+    <buttoncssresponsive />
+    <buttoncss>display:block; position:relative; margin:10px auto;</buttoncss>
+    <addgooglefonts>False</addgooglefonts>
+    <textpositionmargintop>24</textpositionmargintop>
+    <texteffecteasing2>easeOutCubic</texteffecteasing2>
+    <texteffectdelay>500</texteffectdelay>
+    <texteffecteasing1>easeOutCubic</texteffecteasing1>
+    <texteffectdelay1>1000</texteffectdelay1>
+    <texteffectdelay2>1500</texteffectdelay2>
+    <texteffectduration1>600</texteffectduration1>
+    <googlefonts />
+    <textpositionmarginright>24</textpositionmarginright>
+    <textautohide>True</textautohide>
+    <textstyle>dynamic</textstyle>
+    <texteffectslidedistance>30</texteffectslidedistance>
+    <texteffectslidedirection>left</texteffectslidedirection>
+    <textcss>display:block; padding:8px 16px; text-align:center;</textcss>
+    <titlecss>display:table; position:relative; font-weight:300; font-style:italic; font-size:20px; font-family:Georgia,sans-serif,Arial; color:#fff; background-color:#00ccff; padding:10px; margin:0px auto;</titlecss>
+    <textpositionmarginstatic>0</textpositionmarginstatic>
+    <texteffectresponsivesize>600</texteffectresponsivesize>
+    <texteffectslidedirection1>right</texteffectslidedirection1>
+    <texteffectslidedistance1>60</texteffectslidedistance1>
+    <texteffectslidedistance2>60</texteffectslidedistance2>
+    <texteffectslidedirection2>right</texteffectslidedirection2>
+    <textbgcss>display:none;</textbgcss>
+    <texteffectresponsive>True</texteffectresponsive>
+    <texteffecteasing>easeOutCubic</texteffecteasing>
+    <textpositiondynamic>centercenter</textpositiondynamic>
+    <textpositionmarginbottom>24</textpositionmarginbottom>
+    <texteffect>slide</texteffect>
+    <texteffectduration2>600</texteffectduration2>
+  </texteffect>
+  <texteffect>
+    <textformat>Left text</textformat>
+    <titlecssresponsive>font-size:12px;</titlecssresponsive>
+    <descriptioncss>display:block; position:relative; font-weight:300; font-style:normal; font-size:20px; line-height:30px; font-family:Georgia,sans-serif,Arial; color:#fff; padding:10px; margin:2px;</descriptioncss>
+    <texteffect1>slide</texteffect1>
+    <texteffect2>slide</texteffect2>
+    <descriptioncssresponsive>font-size:12px;</descriptioncssresponsive>
+    <texteffectseparate>True</texteffectseparate>
+    <texteffectduration>600</texteffectduration>
+    <textpositionmarginleft>24</textpositionmarginleft>
+    <textpositionstatic>bottom</textpositionstatic>
+    <buttoncssresponsive />
+    <buttoncss>display:block; position:relative; margin:10px;</buttoncss>
+    <addgooglefonts>False</addgooglefonts>
+    <textpositionmargintop>24</textpositionmargintop>
+    <texteffecteasing2>easeOutCubic</texteffecteasing2>
+    <texteffectdelay>500</texteffectdelay>
+    <texteffecteasing1>easeOutCubic</texteffecteasing1>
+    <texteffectdelay1>1000</texteffectdelay1>
+    <texteffectdelay2>1500</texteffectdelay2>
+    <texteffectduration1>600</texteffectduration1>
+    <googlefonts />
+    <textpositionmarginright>24</textpositionmarginright>
+    <textautohide>True</textautohide>
+    <textstyle>dynamic</textstyle>
+    <texteffectslidedistance>30</texteffectslidedistance>
+    <texteffectslidedirection>left</texteffectslidedirection>
+    <textcss>display:block; padding:48px; text-align:left;</textcss>
+    <titlecss>display:table; position:relative; font-weight:300; font-style:italic; font-size:32px; font-family:Georgia,sans-serif,Arial; color:#fff; padding:10px; margin:0px;</titlecss>
+    <textpositionmarginstatic>0</textpositionmarginstatic>
+    <texteffectresponsivesize>600</texteffectresponsivesize>
+    <texteffectslidedirection1>right</texteffectslidedirection1>
+    <texteffectslidedistance1>60</texteffectslidedistance1>
+    <texteffectslidedistance2>60</texteffectslidedistance2>
+    <texteffectslidedirection2>right</texteffectslidedirection2>
+    <textbgcss>display:none;</textbgcss>
+    <texteffectresponsive>True</texteffectresponsive>
+    <texteffecteasing>easeOutCubic</texteffecteasing>
+    <textpositiondynamic>centercenter</textpositiondynamic>
+    <textpositionmarginbottom>24</textpositionmarginbottom>
+    <texteffect>slide</texteffect>
+    <texteffectduration2>600</texteffectduration2>
+  </texteffect>
+  <texteffect>
+    <textformat>Color box</textformat>
+    <titlecssresponsive>font-size:12px;</titlecssresponsive>
+    <descriptioncss>display:block; position:relative; font:12px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#fff;  background-color:#e04000; margin-top:10px; padding:10px; </descriptioncss>
+    <texteffect1>slide</texteffect1>
+    <texteffect2>slide</texteffect2>
+    <descriptioncssresponsive>font-size:12px;</descriptioncssresponsive>
+    <texteffectseparate>True</texteffectseparate>
+    <texteffectduration>600</texteffectduration>
+    <textpositionmarginleft>24</textpositionmarginleft>
+    <textpositionstatic>bottom</textpositionstatic>
+    <buttoncssresponsive />
+    <buttoncss>display:block; position:relative; margin-top:10px;</buttoncss>
+    <addgooglefonts>False</addgooglefonts>
+    <textpositionmargintop>24</textpositionmargintop>
+    <texteffecteasing2>easeOutCubic</texteffecteasing2>
+    <texteffectdelay>500</texteffectdelay>
+    <texteffecteasing1>easeOutCubic</texteffecteasing1>
+    <texteffectdelay1>1000</texteffectdelay1>
+    <texteffectdelay2>1500</texteffectdelay2>
+    <texteffectduration1>600</texteffectduration1>
+    <googlefonts />
+    <textpositionmarginright>24</textpositionmarginright>
+    <textautohide>True</textautohide>
+    <textstyle>dynamic</textstyle>
+    <texteffectslidedistance>30</texteffectslidedistance>
+    <texteffectslidedirection>left</texteffectslidedirection>
+    <textcss>display:block; padding:8px 16px; text-align:left;</textcss>
+    <titlecss>display:table; position:relative; font:bold 14px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#fff; white-space:nowrap; background-color:#f7a020; padding:10px;</titlecss>
+    <textpositionmarginstatic>0</textpositionmarginstatic>
+    <texteffectresponsivesize>600</texteffectresponsivesize>
+    <texteffectslidedirection1>right</texteffectslidedirection1>
+    <texteffectslidedistance1>120</texteffectslidedistance1>
+    <texteffectslidedistance2>120</texteffectslidedistance2>
+    <texteffectslidedirection2>right</texteffectslidedirection2>
+    <textbgcss>display:none;</textbgcss>
+    <texteffectresponsive>True</texteffectresponsive>
+    <texteffecteasing>easeOutCubic</texteffecteasing>
+    <textpositiondynamic>bottomleft</textpositiondynamic>
+    <textpositionmarginbottom>24</textpositionmarginbottom>
+    <texteffect>slide</texteffect>
+    <texteffectduration2>600</texteffectduration2>
+  </texteffect>
+  <texteffect>
+    <textformat>Blue box</textformat>
+    <titlecssresponsive>font-size:12px;</titlecssresponsive>
+    <descriptioncss>display:block; position:relative; font:14px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#00ccff;  background-color:#fff; margin-top:10px; padding:10px; </descriptioncss>
+    <texteffect1>slide</texteffect1>
+    <texteffect2>slide</texteffect2>
+    <descriptioncssresponsive>font-size:12px;</descriptioncssresponsive>
+    <texteffectseparate>True</texteffectseparate>
+    <texteffectduration>600</texteffectduration>
+    <textpositionmarginleft>24</textpositionmarginleft>
+    <textpositionstatic>bottom</textpositionstatic>
+    <buttoncssresponsive />
+    <buttoncss>display:block; position:relative; margin-top:10px;</buttoncss>
+    <addgooglefonts>False</addgooglefonts>
+    <textpositionmargintop>24</textpositionmargintop>
+    <texteffecteasing2>easeOutCubic</texteffecteasing2>
+    <texteffectdelay>800</texteffectdelay>
+    <texteffecteasing1>easeOutCubic</texteffecteasing1>
+    <texteffectdelay1>1000</texteffectdelay1>
+    <texteffectdelay2>1500</texteffectdelay2>
+    <texteffectduration1>800</texteffectduration1>
+    <googlefonts />
+    <textpositionmarginright>24</textpositionmarginright>
+    <textautohide>True</textautohide>
+    <textstyle>dynamic</textstyle>
+    <texteffectslidedistance>10</texteffectslidedistance>
+    <texteffectslidedirection>bottom</texteffectslidedirection>
+    <textcss>display:block; padding:8px 16px; text-align:left;</textcss>
+    <titlecss>display:table; position:relative; font:16px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#fff; white-space:nowrap; background-color:#00ccff; padding:10px;</titlecss>
+    <textpositionmarginstatic>0</textpositionmarginstatic>
+    <texteffectresponsivesize>600</texteffectresponsivesize>
+    <texteffectslidedirection1>bottom</texteffectslidedirection1>
+    <texteffectslidedistance1>10</texteffectslidedistance1>
+    <texteffectslidedistance2>10</texteffectslidedistance2>
+    <texteffectslidedirection2>bottom</texteffectslidedirection2>
+    <textbgcss>display:none;</textbgcss>
+    <texteffectresponsive>True</texteffectresponsive>
+    <texteffecteasing>easeOutCubic</texteffecteasing>
+    <textpositiondynamic>bottomleft</textpositiondynamic>
+    <textpositionmarginbottom>24</textpositionmarginbottom>
+    <texteffect>slide</texteffect>
+    <texteffectduration2>800</texteffectduration2>
+  </texteffect>
+  <texteffect>
+    <textformat>Red box</textformat>
+    <titlecssresponsive>font-size:12px;</titlecssresponsive>
+    <descriptioncss>display:block; position:relative; font:14px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#e04000;  background-color:#fff; margin-top:10px; padding:10px; </descriptioncss>
+    <texteffect1>slide</texteffect1>
+    <texteffect2>slide</texteffect2>
+    <descriptioncssresponsive>font-size:12px;</descriptioncssresponsive>
+    <texteffectseparate>True</texteffectseparate>
+    <texteffectduration>600</texteffectduration>
+    <textpositionmarginleft>24</textpositionmarginleft>
+    <textpositionstatic>bottom</textpositionstatic>
+    <buttoncssresponsive />
+    <buttoncss>display:block; position:relative; margin-top:10px;</buttoncss>
+    <addgooglefonts>False</addgooglefonts>
+    <textpositionmargintop>24</textpositionmargintop>
+    <texteffecteasing2>easeOutCubic</texteffecteasing2>
+    <texteffectdelay>800</texteffectdelay>
+    <texteffecteasing1>easeOutCubic</texteffecteasing1>
+    <texteffectdelay1>1000</texteffectdelay1>
+    <texteffectdelay2>1500</texteffectdelay2>
+    <texteffectduration1>800</texteffectduration1>
+    <googlefonts />
+    <textpositionmarginright>24</textpositionmarginright>
+    <textautohide>True</textautohide>
+    <textstyle>dynamic</textstyle>
+    <texteffectslidedistance>10</texteffectslidedistance>
+    <texteffectslidedirection>bottom</texteffectslidedirection>
+    <textcss>display:block; padding:8px 16px; text-align:left;</textcss>
+    <titlecss>display:table; position:relative; font:16px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#fff; white-space:nowrap; background-color:#e04000; padding:10px;</titlecss>
+    <textpositionmarginstatic>0</textpositionmarginstatic>
+    <texteffectresponsivesize>600</texteffectresponsivesize>
+    <texteffectslidedirection1>bottom</texteffectslidedirection1>
+    <texteffectslidedistance1>10</texteffectslidedistance1>
+    <texteffectslidedistance2>10</texteffectslidedistance2>
+    <texteffectslidedirection2>bottom</texteffectslidedirection2>
+    <textbgcss>display:none;</textbgcss>
+    <texteffectresponsive>True</texteffectresponsive>
+    <texteffecteasing>easeOutCubic</texteffecteasing>
+    <textpositiondynamic>bottomleft</textpositiondynamic>
+    <textpositionmarginbottom>24</textpositionmarginbottom>
+    <texteffect>slide</texteffect>
+    <texteffectduration2>800</texteffectduration2>
+  </texteffect>
+  <texteffect>
+    <textformat>Navy box</textformat>
+    <titlecssresponsive>font-size:12px;</titlecssresponsive>
+    <descriptioncss>display:block; position:relative; font:14px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#fff;  background-color:#f7a020; margin-top:10px; padding:10px; </descriptioncss>
+    <texteffect1>slide</texteffect1>
+    <texteffect2>slide</texteffect2>
+    <descriptioncssresponsive>font-size:12px;</descriptioncssresponsive>
+    <texteffectseparate>True</texteffectseparate>
+    <texteffectduration>600</texteffectduration>
+    <textpositionmarginleft>24</textpositionmarginleft>
+    <textpositionstatic>bottom</textpositionstatic>
+    <buttoncssresponsive />
+    <buttoncss>display:block; position:relative; margin-top:10px;</buttoncss>
+    <addgooglefonts>False</addgooglefonts>
+    <textpositionmargintop>24</textpositionmargintop>
+    <texteffecteasing2>easeOutCubic</texteffecteasing2>
+    <texteffectdelay>500</texteffectdelay>
+    <texteffecteasing1>easeOutCubic</texteffecteasing1>
+    <texteffectdelay1>1000</texteffectdelay1>
+    <texteffectdelay2>1500</texteffectdelay2>
+    <texteffectduration1>600</texteffectduration1>
+    <googlefonts />
+    <textpositionmarginright>24</textpositionmarginright>
+    <textautohide>True</textautohide>
+    <textstyle>dynamic</textstyle>
+    <texteffectslidedistance>30</texteffectslidedistance>
+    <texteffectslidedirection>left</texteffectslidedirection>
+    <textcss>display:block; padding:8px 16px; text-align:left;</textcss>
+    <titlecss>display:table; position:relative; font:16px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#fff; white-space:nowrap; background-color:#334455; padding:10px;</titlecss>
+    <textpositionmarginstatic>0</textpositionmarginstatic>
+    <texteffectresponsivesize>600</texteffectresponsivesize>
+    <texteffectslidedirection1>right</texteffectslidedirection1>
+    <texteffectslidedistance1>120</texteffectslidedistance1>
+    <texteffectslidedistance2>120</texteffectslidedistance2>
+    <texteffectslidedirection2>right</texteffectslidedirection2>
+    <textbgcss>display:none;</textbgcss>
+    <texteffectresponsive>True</texteffectresponsive>
+    <texteffecteasing>easeOutCubic</texteffecteasing>
+    <textpositiondynamic>bottomleft</textpositiondynamic>
+    <textpositionmarginbottom>24</textpositionmarginbottom>
+    <texteffect>slide</texteffect>
+    <texteffectduration2>600</texteffectduration2>
+  </texteffect>
+  <texteffect>
+    <textformat>Pink box</textformat>
+    <titlecssresponsive>font-size:12px;</titlecssresponsive>
+    <descriptioncss>display:block; position:relative; font:14px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#ff69b4;  background-color:#fff; margin-top:10px; padding:10px; </descriptioncss>
+    <texteffect1>slide</texteffect1>
+    <texteffect2>slide</texteffect2>
+    <descriptioncssresponsive>font-size:12px;</descriptioncssresponsive>
+    <texteffectseparate>True</texteffectseparate>
+    <texteffectduration>600</texteffectduration>
+    <textpositionmarginleft>24</textpositionmarginleft>
+    <textpositionstatic>bottom</textpositionstatic>
+    <buttoncssresponsive />
+    <buttoncss>display:block; position:relative; margin-top:10px;</buttoncss>
+    <addgooglefonts>False</addgooglefonts>
+    <textpositionmargintop>24</textpositionmargintop>
+    <texteffecteasing2>easeOutCubic</texteffecteasing2>
+    <texteffectdelay>800</texteffectdelay>
+    <texteffecteasing1>easeOutCubic</texteffecteasing1>
+    <texteffectdelay1>1000</texteffectdelay1>
+    <texteffectdelay2>1500</texteffectdelay2>
+    <texteffectduration1>800</texteffectduration1>
+    <googlefonts />
+    <textpositionmarginright>24</textpositionmarginright>
+    <textautohide>True</textautohide>
+    <textstyle>dynamic</textstyle>
+    <texteffectslidedistance>10</texteffectslidedistance>
+    <texteffectslidedirection>bottom</texteffectslidedirection>
+    <textcss>display:block; padding:8px 16px; text-align:left;</textcss>
+    <titlecss>display:table; position:relative; font:16px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#fff; white-space:nowrap; background-color:#ff69b4; padding:10px;</titlecss>
+    <textpositionmarginstatic>0</textpositionmarginstatic>
+    <texteffectresponsivesize>600</texteffectresponsivesize>
+    <texteffectslidedirection1>bottom</texteffectslidedirection1>
+    <texteffectslidedistance1>10</texteffectslidedistance1>
+    <texteffectslidedistance2>10</texteffectslidedistance2>
+    <texteffectslidedirection2>bottom</texteffectslidedirection2>
+    <textbgcss>display:none;</textbgcss>
+    <texteffectresponsive>True</texteffectresponsive>
+    <texteffecteasing>easeOutCubic</texteffecteasing>
+    <textpositiondynamic>bottomleft</textpositiondynamic>
+    <textpositionmarginbottom>24</textpositionmarginbottom>
+    <texteffect>slide</texteffect>
+    <texteffectduration2>800</texteffectduration2>
+  </texteffect>
+  <texteffect>
+    <textformat>Light box</textformat>
+    <titlecssresponsive>font-size:12px;</titlecssresponsive>
+    <descriptioncss>display:block; position:relative; font:12px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#333; margin-top:8px;</descriptioncss>
+    <texteffect1>slide</texteffect1>
+    <texteffect2>slide</texteffect2>
+    <descriptioncssresponsive>font-size:12px;</descriptioncssresponsive>
+    <texteffectseparate>False</texteffectseparate>
+    <texteffectduration>600</texteffectduration>
+    <textpositionmarginleft>0</textpositionmarginleft>
+    <textpositionstatic>bottom</textpositionstatic>
+    <buttoncssresponsive />
+    <buttoncss>display:block; position:relative; margin-top:8px;</buttoncss>
+    <addgooglefonts>False</addgooglefonts>
+    <textpositionmargintop>24</textpositionmargintop>
+    <texteffecteasing2>easeOutCubic</texteffecteasing2>
+    <texteffectdelay>500</texteffectdelay>
+    <texteffecteasing1>easeOutCubic</texteffecteasing1>
+    <texteffectdelay1>1000</texteffectdelay1>
+    <texteffectdelay2>1500</texteffectdelay2>
+    <texteffectduration1>600</texteffectduration1>
+    <googlefonts />
+    <textpositionmarginright>0</textpositionmarginright>
+    <textautohide>True</textautohide>
+    <textstyle>dynamic</textstyle>
+    <texteffectslidedistance>30</texteffectslidedistance>
+    <texteffectslidedirection>left</texteffectslidedirection>
+    <textcss>display:block; padding:8px 16px; text-align:left;</textcss>
+    <titlecss>display:block; position:relative; font:bold 14px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#333; white-space:nowrap;</titlecss>
+    <textpositionmarginstatic>0</textpositionmarginstatic>
+    <texteffectresponsivesize>600</texteffectresponsivesize>
+    <texteffectslidedirection1>right</texteffectslidedirection1>
+    <texteffectslidedistance1>120</texteffectslidedistance1>
+    <texteffectslidedistance2>120</texteffectslidedistance2>
+    <texteffectslidedirection2>right</texteffectslidedirection2>
+    <textbgcss>display:block; position:absolute; top:0px; left:0px; width:100%; height:100%; background-color:#fff; opacity:0.7; filter:alpha(opacity=70);</textbgcss>
+    <texteffectresponsive>True</texteffectresponsive>
+    <texteffecteasing>easeOutCubic</texteffecteasing>
+    <textpositiondynamic>bottomleft</textpositiondynamic>
+    <textpositionmarginbottom>24</textpositionmarginbottom>
+    <texteffect>fade</texteffect>
+    <texteffectduration2>600</texteffectduration2>
+  </texteffect>
+  <texteffect>
+    <textformat>Grey box</textformat>
+    <titlecssresponsive>font-size:12px;</titlecssresponsive>
+    <descriptioncss>display:block; position:relative; font:12px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#fff; margin-top:8px;</descriptioncss>
+    <texteffect1>slide</texteffect1>
+    <texteffect2>slide</texteffect2>
+    <descriptioncssresponsive>font-size:12px;</descriptioncssresponsive>
+    <texteffectseparate>False</texteffectseparate>
+    <texteffectduration>600</texteffectduration>
+    <textpositionmarginleft>24</textpositionmarginleft>
+    <textpositionstatic>bottom</textpositionstatic>
+    <buttoncssresponsive />
+    <buttoncss>display:block; position:relative; margin-top:8px;</buttoncss>
+    <addgooglefonts>False</addgooglefonts>
+    <textpositionmargintop>24</textpositionmargintop>
+    <texteffecteasing2>easeOutCubic</texteffecteasing2>
+    <texteffectdelay>500</texteffectdelay>
+    <texteffecteasing1>easeOutCubic</texteffecteasing1>
+    <texteffectdelay1>1000</texteffectdelay1>
+    <texteffectdelay2>1500</texteffectdelay2>
+    <texteffectduration1>600</texteffectduration1>
+    <googlefonts />
+    <textpositionmarginright>24</textpositionmarginright>
+    <textautohide>True</textautohide>
+    <textstyle>dynamic</textstyle>
+    <texteffectslidedistance>30</texteffectslidedistance>
+    <texteffectslidedirection>left</texteffectslidedirection>
+    <textcss>display:block; padding:8px 16px; text-align:left;</textcss>
+    <titlecss>display:block; position:relative; font:bold 14px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#fff; white-space:nowrap;</titlecss>
+    <textpositionmarginstatic>0</textpositionmarginstatic>
+    <texteffectresponsivesize>600</texteffectresponsivesize>
+    <texteffectslidedirection1>right</texteffectslidedirection1>
+    <texteffectslidedistance1>120</texteffectslidedistance1>
+    <texteffectslidedistance2>120</texteffectslidedistance2>
+    <texteffectslidedirection2>right</texteffectslidedirection2>
+    <textbgcss>display:block; position:absolute; top:0px; left:0px; width:100%; height:100%; background-color:#333; opacity:0.7; filter:alpha(opacity=70);</textbgcss>
+    <texteffectresponsive>True</texteffectresponsive>
+    <texteffecteasing>easeOutCubic</texteffecteasing>
+    <textpositiondynamic>bottomleft</textpositiondynamic>
+    <textpositionmarginbottom>24</textpositionmarginbottom>
+    <texteffect>slide</texteffect>
+    <texteffectduration2>600</texteffectduration2>
+  </texteffect>
+  <texteffect>
+    <textformat>Color box right align</textformat>
+    <titlecssresponsive>font-size:12px;</titlecssresponsive>
+    <descriptioncss>display:block; position:relative; font:12px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#fff;  background-color:#e04000; margin-top:10px; padding:10px; </descriptioncss>
+    <texteffect1>slide</texteffect1>
+    <texteffect2>slide</texteffect2>
+    <descriptioncssresponsive>font-size:12px;</descriptioncssresponsive>
+    <texteffectseparate>True</texteffectseparate>
+    <texteffectduration>600</texteffectduration>
+    <textpositionmarginleft>24</textpositionmarginleft>
+    <textpositionstatic>bottom</textpositionstatic>
+    <buttoncssresponsive />
+    <buttoncss>display:block; position:relative; margin-top:10px;</buttoncss>
+    <addgooglefonts>False</addgooglefonts>
+    <textpositionmargintop>24</textpositionmargintop>
+    <texteffecteasing2>easeOutCubic</texteffecteasing2>
+    <texteffectdelay>500</texteffectdelay>
+    <texteffecteasing1>easeOutCubic</texteffecteasing1>
+    <texteffectdelay1>1000</texteffectdelay1>
+    <texteffectdelay2>1500</texteffectdelay2>
+    <texteffectduration1>600</texteffectduration1>
+    <googlefonts />
+    <textpositionmarginright>24</textpositionmarginright>
+    <textautohide>True</textautohide>
+    <textstyle>dynamic</textstyle>
+    <texteffectslidedistance>120</texteffectslidedistance>
+    <texteffectslidedirection>left</texteffectslidedirection>
+    <textcss>display:block; padding:8px 16px; text-align:right;</textcss>
+    <titlecss>display:table; position:relative; font:bold 14px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#fff; white-space:nowrap; background-color:#f7a020; padding:10px; </titlecss>
+    <textpositionmarginstatic>0</textpositionmarginstatic>
+    <texteffectresponsivesize>600</texteffectresponsivesize>
+    <texteffectslidedirection1>left</texteffectslidedirection1>
+    <texteffectslidedistance1>120</texteffectslidedistance1>
+    <texteffectslidedistance2>120</texteffectslidedistance2>
+    <texteffectslidedirection2>left</texteffectslidedirection2>
+    <textbgcss>display:none;</textbgcss>
+    <texteffectresponsive>True</texteffectresponsive>
+    <texteffecteasing>easeOutCubic</texteffecteasing>
+    <textpositiondynamic>bottomright</textpositiondynamic>
+    <textpositionmarginbottom>24</textpositionmarginbottom>
+    <texteffect>slide</texteffect>
+    <texteffectduration2>600</texteffectduration2>
+  </texteffect>
+  <texteffect>
+    <textformat>Red title</textformat>
+    <titlecssresponsive>font-size:12px;</titlecssresponsive>
+    <descriptioncss>display:block; position:relative; font:12px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#fff;  background-color:#e04000; margin-top:10px; padding:10px; </descriptioncss>
+    <texteffect1>slide</texteffect1>
+    <texteffect2>slide</texteffect2>
+    <descriptioncssresponsive>font-size:12px;</descriptioncssresponsive>
+    <texteffectseparate>True</texteffectseparate>
+    <texteffectduration>600</texteffectduration>
+    <textpositionmarginleft>24</textpositionmarginleft>
+    <textpositionstatic>bottom</textpositionstatic>
+    <buttoncssresponsive />
+    <buttoncss>display:block; position:relative; margin-top:10px;</buttoncss>
+    <addgooglefonts>False</addgooglefonts>
+    <textpositionmargintop>24</textpositionmargintop>
+    <texteffecteasing2>easeOutCubic</texteffecteasing2>
+    <texteffectdelay>500</texteffectdelay>
+    <texteffecteasing1>easeOutCubic</texteffecteasing1>
+    <texteffectdelay1>1000</texteffectdelay1>
+    <texteffectdelay2>1500</texteffectdelay2>
+    <texteffectduration1>600</texteffectduration1>
+    <googlefonts />
+    <textpositionmarginright>24</textpositionmarginright>
+    <textautohide>True</textautohide>
+    <textstyle>dynamic</textstyle>
+    <texteffectslidedistance>30</texteffectslidedistance>
+    <texteffectslidedirection>left</texteffectslidedirection>
+    <textcss>display:block; padding:8px 16px; text-align:left;</textcss>
+    <titlecss>display:table; position:relative; font:24px Georgia,serif,Arial; color:#e04000; white-space:nowrap;</titlecss>
+    <textpositionmarginstatic>0</textpositionmarginstatic>
+    <texteffectresponsivesize>600</texteffectresponsivesize>
+    <texteffectslidedirection1>right</texteffectslidedirection1>
+    <texteffectslidedistance1>120</texteffectslidedistance1>
+    <texteffectslidedistance2>120</texteffectslidedistance2>
+    <texteffectslidedirection2>right</texteffectslidedirection2>
+    <textbgcss>display:none;</textbgcss>
+    <texteffectresponsive>True</texteffectresponsive>
+    <texteffecteasing>easeOutCubic</texteffecteasing>
+    <textpositiondynamic>bottomleft</textpositiondynamic>
+    <textpositionmarginbottom>24</textpositionmarginbottom>
+    <texteffect>slide</texteffect>
+    <texteffectduration2>600</texteffectduration2>
+  </texteffect>
+  <texteffect>
+    <textformat>White title</textformat>
+    <titlecssresponsive>font-size:12px;</titlecssresponsive>
+    <descriptioncss>display:block; position:relative; font:12px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#333;  background-color:#fff; margin-top:10px; padding:10px; </descriptioncss>
+    <texteffect1>slide</texteffect1>
+    <texteffect2>slide</texteffect2>
+    <descriptioncssresponsive>font-size:12px;</descriptioncssresponsive>
+    <texteffectseparate>True</texteffectseparate>
+    <texteffectduration>600</texteffectduration>
+    <textpositionmarginleft>24</textpositionmarginleft>
+    <textpositionstatic>bottom</textpositionstatic>
+    <buttoncssresponsive />
+    <buttoncss>display:block; position:relative; margin-top:10px;</buttoncss>
+    <addgooglefonts>False</addgooglefonts>
+    <textpositionmargintop>24</textpositionmargintop>
+    <texteffecteasing2>easeOutCubic</texteffecteasing2>
+    <texteffectdelay>500</texteffectdelay>
+    <texteffecteasing1>easeOutCubic</texteffecteasing1>
+    <texteffectdelay1>1000</texteffectdelay1>
+    <texteffectdelay2>1500</texteffectdelay2>
+    <texteffectduration1>600</texteffectduration1>
+    <googlefonts />
+    <textpositionmarginright>24</textpositionmarginright>
+    <textautohide>True</textautohide>
+    <textstyle>dynamic</textstyle>
+    <texteffectslidedistance>30</texteffectslidedistance>
+    <texteffectslidedirection>left</texteffectslidedirection>
+    <textcss>display:block; padding:8px 16px; text-align:left;</textcss>
+    <titlecss>display:table; position:relative; font:24px Georgia,serif,Arial; color:#fff; white-space:nowrap;</titlecss>
+    <textpositionmarginstatic>0</textpositionmarginstatic>
+    <texteffectresponsivesize>600</texteffectresponsivesize>
+    <texteffectslidedirection1>right</texteffectslidedirection1>
+    <texteffectslidedistance1>120</texteffectslidedistance1>
+    <texteffectslidedistance2>120</texteffectslidedistance2>
+    <texteffectslidedirection2>right</texteffectslidedirection2>
+    <textbgcss>display:none;</textbgcss>
+    <texteffectresponsive>True</texteffectresponsive>
+    <texteffecteasing>easeOutCubic</texteffecteasing>
+    <textpositiondynamic>bottomleft</textpositiondynamic>
+    <textpositionmarginbottom>24</textpositionmarginbottom>
+    <texteffect>slide</texteffect>
+    <texteffectduration2>600</texteffectduration2>
+  </texteffect>
+  <texteffect>
+    <textformat>Yellow title</textformat>
+    <titlecssresponsive>font-size:12px;</titlecssresponsive>
+    <descriptioncss>display:block; position:relative; font:12px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#fff;  background-color:#f7a020; margin-top:10px; padding:10px; </descriptioncss>
+    <texteffect1>slide</texteffect1>
+    <texteffect2>slide</texteffect2>
+    <descriptioncssresponsive>font-size:12px;</descriptioncssresponsive>
+    <texteffectseparate>True</texteffectseparate>
+    <texteffectduration>600</texteffectduration>
+    <textpositionmarginleft>24</textpositionmarginleft>
+    <textpositionstatic>bottom</textpositionstatic>
+    <buttoncssresponsive />
+    <buttoncss>display:block; position:relative; margin-top:10px;</buttoncss>
+    <addgooglefonts>False</addgooglefonts>
+    <textpositionmargintop>24</textpositionmargintop>
+    <texteffecteasing2>easeOutCubic</texteffecteasing2>
+    <texteffectdelay>500</texteffectdelay>
+    <texteffecteasing1>easeOutCubic</texteffecteasing1>
+    <texteffectdelay1>1000</texteffectdelay1>
+    <texteffectdelay2>1500</texteffectdelay2>
+    <texteffectduration1>600</texteffectduration1>
+    <googlefonts />
+    <textpositionmarginright>24</textpositionmarginright>
+    <textautohide>True</textautohide>
+    <textstyle>dynamic</textstyle>
+    <texteffectslidedistance>30</texteffectslidedistance>
+    <texteffectslidedirection>left</texteffectslidedirection>
+    <textcss>display:block; padding:8px 16px; text-align:left;</textcss>
+    <titlecss>display:table; position:relative; font:24px Georgia,serif,Arial; color:#f7a020; white-space:nowrap;</titlecss>
+    <textpositionmarginstatic>0</textpositionmarginstatic>
+    <texteffectresponsivesize>600</texteffectresponsivesize>
+    <texteffectslidedirection1>right</texteffectslidedirection1>
+    <texteffectslidedistance1>120</texteffectslidedistance1>
+    <texteffectslidedistance2>120</texteffectslidedistance2>
+    <texteffectslidedirection2>right</texteffectslidedirection2>
+    <textbgcss>display:none;</textbgcss>
+    <texteffectresponsive>True</texteffectresponsive>
+    <texteffecteasing>easeOutCubic</texteffecteasing>
+    <textpositiondynamic>bottomleft</textpositiondynamic>
+    <textpositionmarginbottom>24</textpositionmarginbottom>
+    <texteffect>slide</texteffect>
+    <texteffectduration2>600</texteffectduration2>
+  </texteffect>
+  <texteffect>
+    <textformat>Underneath center</textformat>
+    <titlecssresponsive>font-size:12px;</titlecssresponsive>
+    <descriptioncss>display:block; position:relative; font:14px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#333; margin-top:8px;</descriptioncss>
+    <texteffect1>slide</texteffect1>
+    <texteffect2>slide</texteffect2>
+    <descriptioncssresponsive>font-size:12px;</descriptioncssresponsive>
+    <texteffectseparate>False</texteffectseparate>
+    <texteffectduration>600</texteffectduration>
+    <textpositionmarginleft>24</textpositionmarginleft>
+    <textpositionstatic>bottomoutside</textpositionstatic>
+    <buttoncssresponsive />
+    <buttoncss>display:block; position:relative; margin-top:8px;</buttoncss>
+    <addgooglefonts>False</addgooglefonts>
+    <textpositionmargintop>24</textpositionmargintop>
+    <texteffecteasing2>easeOutCubic</texteffecteasing2>
+    <texteffectdelay>500</texteffectdelay>
+    <texteffecteasing1>easeOutCubic</texteffecteasing1>
+    <texteffectdelay1>1000</texteffectdelay1>
+    <texteffectdelay2>1500</texteffectdelay2>
+    <texteffectduration1>600</texteffectduration1>
+    <googlefonts />
+    <textpositionmarginright>24</textpositionmarginright>
+    <textautohide>False</textautohide>
+    <textstyle>static</textstyle>
+    <texteffectslidedistance>30</texteffectslidedistance>
+    <texteffectslidedirection>left</texteffectslidedirection>
+    <textcss>display:block; padding:12px 0px; text-align:center; margin-top:4px;</textcss>
+    <titlecss>display:block; position:relative; font:bold 16px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#333;</titlecss>
+    <textpositionmarginstatic>0</textpositionmarginstatic>
+    <texteffectresponsivesize>600</texteffectresponsivesize>
+    <texteffectslidedirection1>right</texteffectslidedirection1>
+    <texteffectslidedistance1>120</texteffectslidedistance1>
+    <texteffectslidedistance2>120</texteffectslidedistance2>
+    <texteffectslidedirection2>right</texteffectslidedirection2>
+    <textbgcss>display:none;</textbgcss>
+    <texteffectresponsive>True</texteffectresponsive>
+    <texteffecteasing>easeOutCubic</texteffecteasing>
+    <textpositiondynamic>bottomleft</textpositiondynamic>
+    <textpositionmarginbottom>24</textpositionmarginbottom>
+    <texteffect>slide</texteffect>
+    <texteffectduration2>600</texteffectduration2>
+  </texteffect>
+  <texteffect>
+    <textformat>Underneath left</textformat>
+    <titlecssresponsive>font-size:12px;</titlecssresponsive>
+    <descriptioncss>display:block; position:relative; font:14px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#333; margin-top:8px;</descriptioncss>
+    <texteffect1>slide</texteffect1>
+    <texteffect2>slide</texteffect2>
+    <descriptioncssresponsive>font-size:12px;</descriptioncssresponsive>
+    <texteffectseparate>False</texteffectseparate>
+    <texteffectduration>600</texteffectduration>
+    <textpositionmarginleft>24</textpositionmarginleft>
+    <textpositionstatic>bottomoutside</textpositionstatic>
+    <buttoncssresponsive />
+    <buttoncss>display:block; position:relative; margin-top:8px;</buttoncss>
+    <addgooglefonts>False</addgooglefonts>
+    <textpositionmargintop>24</textpositionmargintop>
+    <texteffecteasing2>easeOutCubic</texteffecteasing2>
+    <texteffectdelay>500</texteffectdelay>
+    <texteffecteasing1>easeOutCubic</texteffecteasing1>
+    <texteffectdelay1>1000</texteffectdelay1>
+    <texteffectdelay2>1500</texteffectdelay2>
+    <texteffectduration1>600</texteffectduration1>
+    <googlefonts />
+    <textpositionmarginright>24</textpositionmarginright>
+    <textautohide>False</textautohide>
+    <textstyle>static</textstyle>
+    <texteffectslidedistance>30</texteffectslidedistance>
+    <texteffectslidedirection>left</texteffectslidedirection>
+    <textcss>display:block; padding:12px 0px; text-align:left; width: 70%; margin-top:4px;</textcss>
+    <titlecss>display:block; position:relative; font:bold 16px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#333;</titlecss>
+    <textpositionmarginstatic>0</textpositionmarginstatic>
+    <texteffectresponsivesize>600</texteffectresponsivesize>
+    <texteffectslidedirection1>right</texteffectslidedirection1>
+    <texteffectslidedistance1>120</texteffectslidedistance1>
+    <texteffectslidedistance2>120</texteffectslidedistance2>
+    <texteffectslidedirection2>right</texteffectslidedirection2>
+    <textbgcss>display:none;</textbgcss>
+    <texteffectresponsive>True</texteffectresponsive>
+    <texteffecteasing>easeOutCubic</texteffecteasing>
+    <textpositiondynamic>bottomleft</textpositiondynamic>
+    <textpositionmarginbottom>24</textpositionmarginbottom>
+    <texteffect>slide</texteffect>
+    <texteffectduration2>600</texteffectduration2>
+  </texteffect>
+  <texteffect>
+    <textformat>None</textformat>
+    <titlecssresponsive>font-size:12px;</titlecssresponsive>
+    <descriptioncss>display:block; position:relative; font:12px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#fff; margin-top:8px;</descriptioncss>
+    <texteffect1>slide</texteffect1>
+    <texteffect2>slide</texteffect2>
+    <descriptioncssresponsive>font-size:12px;</descriptioncssresponsive>
+    <texteffectseparate>False</texteffectseparate>
+    <texteffectduration>600</texteffectduration>
+    <textpositionmarginleft>24</textpositionmarginleft>
+    <textpositionstatic>bottom</textpositionstatic>
+    <buttoncssresponsive />
+    <buttoncss>display:block; position:relative; margin-top:8px;</buttoncss>
+    <addgooglefonts>False</addgooglefonts>
+    <textpositionmargintop>24</textpositionmargintop>
+    <texteffecteasing2>easeOutCubic</texteffecteasing2>
+    <texteffectdelay>500</texteffectdelay>
+    <texteffecteasing1>easeOutCubic</texteffecteasing1>
+    <texteffectdelay1>1000</texteffectdelay1>
+    <texteffectdelay2>1500</texteffectdelay2>
+    <texteffectduration1>600</texteffectduration1>
+    <googlefonts />
+    <textpositionmarginright>24</textpositionmarginright>
+    <textautohide>True</textautohide>
+    <textstyle>none</textstyle>
+    <texteffectslidedistance>30</texteffectslidedistance>
+    <texteffectslidedirection>left</texteffectslidedirection>
+    <textcss>display:block; padding:12px; text-align:left;</textcss>
+    <titlecss>display:block; position:relative; font:bold 14px "Lucida Sans Unicode","Lucida Grande",sans-serif,Arial; color:#fff;</titlecss>
+    <textpositionmarginstatic>0</textpositionmarginstatic>
+    <texteffectresponsivesize>600</texteffectresponsivesize>
+    <texteffectslidedirection1>right</texteffectslidedirection1>
+    <texteffectslidedistance1>120</texteffectslidedistance1>
+    <texteffectslidedistance2>120</texteffectslidedistance2>
+    <texteffectslidedirection2>right</texteffectslidedirection2>
+    <textbgcss>display:block; position:absolute; top:0px; left:0px; width:100%; height:100%; background-color:#333333; opacity:0.6; filter:alpha(opacity=60);</textbgcss>
+    <texteffectresponsive>True</texteffectresponsive>
+    <texteffecteasing>easeOutCubic</texteffecteasing>
+    <textpositiondynamic>bottomleft</textpositiondynamic>
+    <textpositionmarginbottom>24</textpositionmarginbottom>
+    <texteffect>slide</texteffect>
+    <texteffectduration2>600</texteffectduration2>
+  </texteffect>
+</configure>
