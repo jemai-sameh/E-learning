@@ -5,7 +5,9 @@ function typeEffect(element, speed) {
     var i = 0;
     var timer = setInterval(function() {
         if (i < text.length) {
-          element.append(text.charAt(i));
+          let lettre=text.charAt(i);             
+          element.append(lettre);
+          
           i++;
         } else {
           clearInterval(timer);
